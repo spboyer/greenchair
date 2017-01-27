@@ -2,3 +2,5 @@
 [Bb]in/
 [Oo]bj
 npm_modules/
+.DS_Store
+published/
